@@ -1,5 +1,5 @@
 # Customer Sentiment Analysis System
-## B198c7 AI Applications for Digital Business — Reassessment
+## B198R AI Applications for Digital Business — Reassessment
 
 **Student:** Rajkumar Labana  
 **Client:** ShopStream Retail (Consumer Electronics)  
